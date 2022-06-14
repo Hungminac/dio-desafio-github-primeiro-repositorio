@@ -26,4 +26,4 @@ Abaixo estão alguns comandos básicos (porém úteis) do Git para Windows e par
 - del = deletar arquivos
 - rm -rf = remover repositório
 
-Obs: cabe ressaltar que são apenas alguns comandos básicos para iniciantes, e evidentemente não estão todos os comandos, como por exemplo; git clone ou git add
+Obs: cabe ressaltar que são apenas alguns comandos básicos para iniciantes, e evidentemente não estão todos os comandos, como por exemplo; git clone ou git add .
