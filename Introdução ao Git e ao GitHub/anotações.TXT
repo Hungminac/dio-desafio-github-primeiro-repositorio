@@ -12,7 +12,7 @@ Abaixo estão alguns comandos básicos (porém úteis) do Git para Windows e par
 - cls = clear screen = limpar o terminal
 - Tab = autocompletar
 - mkdir = make directory = criar pasta
-- echo = printa de volta no terminar uma frase ou texto
+- echo = printa de volta no terminal uma frase ou texto
  
 	Linux
 
