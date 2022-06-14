@@ -1,0 +1,29 @@
+Link para download do Git:  https://git-scm.com/downloads
+
+O Git Bash é um terminal para otimizar o uso do Git.
+
+Abaixo estão alguns comandos básicos (porém úteis) do Git para Windows e para o Linux:
+
+	Windows
+
+- Dir =  retorna uma lista de conteúdo contido naquele diretório específico
+- cd = navegar entre as pastas. (Change direct)
+- cd .. = repositório c
+- cls = clear screen = limpar o terminal
+- Tab = autocompletar
+- mkdir = make directory = criar pasta
+- echo = printa de volta no terminar uma frase ou texto
+ 
+	Linux
+
+- ls = retorna uma lista de conteúdo contido naquele diretório específico
+- cd = navegar entre as pastas. (etc = pasta o sistema)
+- cd .. = retroceder um nível na navegação
+- clear = limpar o terminal (ctrl + l)
+- sudo su (pedir permissão) > mkdir = criar pasta
+- echo = printa de volta no terminar uma frase ou texto
+- \> = redirecionador de fluxos.
+- del = deletar arquivos
+- rm -rf = remover repositório
+
+Obs: cabe ressaltar que são apenas alguns comandos básicos para iniciantes, e evidentemente não estão todos os comandos, como por exemplo; git clone ou git add
